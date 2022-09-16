@@ -1,3 +1,3 @@
-# Springboard
+# Springboard Data Science Boot Camp
 
-This is a general repo containing the various assignments and projects I completed during the boot camp.
+This repo contains the various assignments and projects I completed during the boot camp.
